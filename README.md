@@ -1,5 +1,5 @@
-# Ziwei-STAT-Work
+The repository is for class STAT 2600, Introduction to Data Science, taken in Spring 2020 at CU Boulder.
 
-The repository contains my assignments for the class STAT 2600, taken in Spring 2020 at CU Boulder
+The files contain individual and team assignments. 
 
-Coding language: R and python
+Coding language : R, Python
